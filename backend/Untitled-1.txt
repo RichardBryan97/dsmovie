@@ -1,0 +1,10 @@
+postgres://
+mdbjcayxjjgpal
+:
+63806778f8f82937827cc5d1d02bb5907413aa2a3e219f45ed1bbdf6dc493475
+@
+ec2-3-232-22-121.compute-1.amazonaws.com
+:
+5432
+/
+dclhgd6jadbg5f
